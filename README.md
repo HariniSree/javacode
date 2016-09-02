@@ -5,7 +5,7 @@ public statis void main(String[] args)
   {
 int a;
 Scanner s=new Scanner(System.in);
-System.out.println("Enetr the number");
+System.out.println("Enetr the number:");
 n=s.nextInt()
   if(a>0)
     {
@@ -20,4 +20,3 @@ n=s.nextInt()
     System.out.println("The number is zero");
     }
   }
-}
